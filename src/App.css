@@ -1,0 +1,104 @@
+body{
+  background-color: #F2F2F2;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.right{
+  text-align: right;
+  padding-left: 100px;
+}
+.modalContainer{
+  padding: 30px;
+  width: 350px;
+  height: 300px;
+  background-color: white;
+  position: absolute;
+  right: 49px;
+  top:145px;
+}
+.pageContent{
+  padding: 10px 20px;
+}
+header{
+  background-color: #FECC02;
+  padding-top:20px;
+  padding-right: 20px;
+  padding-bottom: 0;
+  padding-left: 20px;
+}
+h2{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 35px;
+  padding: 30px;
+  color: #333333;
+}
+a{
+  text-decoration: none;
+}
+li{
+list-style: none;
+}
+.container{
+background-color: white;
+}
+.menu{
+  padding: 0;
+}
+
+.color-blue {
+  color: #005ea8;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+.viewInfos{
+  background-color: white;
+  border: 1 px solid grey;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+.dark{
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
+.yellow{
+  background-color: #FECC02;
+  color: black;
+  padding: 10px 20px;
+}
+.searchBtn{
+  background-color: black;
+  color: white;
+}
+.light{
+  background-color: #EBEFF0;
+  color: black;
+  padding: 10px 20px;
+}
+.nav-item{
+  text-transform: uppercase;
+}
+a.nav-link {
+  color: black;
+}
+a.nav-link:hover {
+  color: black;
+  background-color: white;
+}
+a.nav-link.active{
+  color: black;
+  background-color: white;
+}
+.buttonContainer{
+  padding: 15px 0;
+}
+.detailsList{
+  padding-left: 0;
+}
+.rating{
+  padding-left: 35px;
+}
